@@ -1,6 +1,6 @@
 # GE-IT-Skills-Portfolio
 <p align="center">
-  <img src=<!-- Uploading "ONG.png"... -->"
+  <img src="ONG.png" width="650"/>
     </p>
 
     ---
