@@ -1,9 +1,8 @@
 # GE-IT-Skills-Portfolio
 <p align="center">
-  <img src="ONG.png" width="650"/>
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/28222fc5-2b57-45e8-9f3f-c1ce409b7042" />
     </p>
 
-    ---
 
   <h1 align="center">ABOUT ME</h1>
     
